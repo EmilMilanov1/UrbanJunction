@@ -1,0 +1,1 @@
+// Placeholder for UrbanJunctionForum.Web/wwwroot/js/site.js

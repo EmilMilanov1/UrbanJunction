@@ -1,0 +1,1 @@
+// Placeholder for UrbanJunctionForum.Web/Controllers/HomeController.cs
