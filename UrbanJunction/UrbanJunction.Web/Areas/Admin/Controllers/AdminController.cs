@@ -1,1 +1,0 @@
-// Placeholder for UrbanJunctionForum.Web/Areas/Admin/Controllers/AdminController.cs
