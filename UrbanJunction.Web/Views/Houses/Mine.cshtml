@@ -1,0 +1,21 @@
+﻿@model AllHousesViewModel
+
+@{
+    ViewBag.Title = "My Topics";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var topic in Model.Topics)
+    {
+        <div class="card col-6">
+            <img class="card-img-top" src="@topic.ImageUrl" alt="Topic Image">
+            <div class="card-body">
+                <h5 class="card-title">@topic.Title</h5>
+                <p class="card-text">@topic.Address</p>
+            </div>
+        </div>
+    }
+</div>

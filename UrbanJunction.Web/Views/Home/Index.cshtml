@@ -1,0 +1,28 @@
+﻿@using UrbanJunction.Web.Models.Home
+@model IndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="text-center">Welcome</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var topic in Model.Topics)
+    {
+        <div class="card col-4">
+            <img class="card-img-top" src="@topic.ImageUrl" alt="Topic Image">
+            <div class="card-body">
+                <h5 class="card-title">@topic.Title</h5>
+            </div>
+        </div>
+    }
+
+    <div class="jumbotron" style="margin-top: 50px">
+        <div class="row">
+            <h4 class="col-md-6 text-center">Total Topics: @Model.TotalHouses</h4>
+            <h4 class="col-md-6 text-center">Total Rents: @Model.TotalRents</h4>
+        </div>
+    </div>
+</div>
