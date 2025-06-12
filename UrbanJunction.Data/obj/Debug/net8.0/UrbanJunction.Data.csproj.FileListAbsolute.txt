@@ -1,0 +1,14 @@
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\bin\Debug\net8.0\UrbanJunction.Data.deps.json
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\bin\Debug\net8.0\UrbanJunction.Data.runtimeconfig.json
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\bin\Debug\net8.0\UrbanJunction.Data.dll
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\bin\Debug\net8.0\UrbanJunction.Data.pdb
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.csproj.AssemblyReference.cache
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.AssemblyInfoInputs.cache
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.AssemblyInfo.cs
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.dll
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\refint\UrbanJunction.Data.dll
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.pdb
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\UrbanJunction.Data.genruntimeconfig.cache
+C:\Users\Emcho\Downloads\UrbanJunctionEmo-master\UrbanJunctionEmo-master\UrbanJunction.Data\obj\Debug\net8.0\ref\UrbanJunction.Data.dll
